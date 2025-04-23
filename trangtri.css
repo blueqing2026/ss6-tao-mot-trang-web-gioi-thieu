@@ -1,0 +1,63 @@
+body{
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    background-color: hsla(0, 22%, 90%, 0.569) ;
+
+}   
+
+header{
+    background-color: #0d5b97;
+    color: rgb(247, 247, 247);
+    text-align: center;
+    padding-top: 20px ;
+    padding-bottom: 20px ;
+    font-weight: 700;
+    font-size: 30px;
+ 
+}
+
+nav{
+    
+
+}
+
+nav a{
+    color: white;
+    text-decoration: double;
+
+    margin: 0 10px ;
+    font-size: 20px;
+    
+}
+
+.thanbai{
+    text-align: center;
+    padding: 40px ;
+
+
+
+}
+
+
+
+.hinhanh{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid rgba(0, 187, 255, 0.466);
+
+}
+
+footer{
+    background-color: rgba(162, 168, 168, 0.257);
+    padding: 20px ;
+    text-align: center;
+ 
+}
+
+footer a{
+    color: rgb(8, 141, 203);
+    margin:  20px;
+
+}
